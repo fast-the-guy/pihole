@@ -1,0 +1,29 @@
+#ads blocklist
+
+# got list to block from https://www.superadblocktest.com/
+
+# amazon
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+
+# Google Ads
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 afs.googlesyndication.com
+
+
+
+
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
